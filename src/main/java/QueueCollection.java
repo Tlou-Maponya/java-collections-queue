@@ -38,7 +38,7 @@ public class QueueCollection {
             }
 
         }
-        System.out.println("Highest number of unique integer in a subArray: " + highestUniqueNum);
+        System.out.println("Highest number of unique integers in subArray: " + highestUniqueNum);
         System.out.println("");
         // find highest number of unique val
 
