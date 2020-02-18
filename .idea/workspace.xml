@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5689b434-5882-4bfb-b2e3-a1391347833f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XyB1s5xx23Vzhkl2ZbcIWR7OC7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/workAfterWork/Java/Umuzi/StringCalculator/StringCalculator" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainProgram">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java-collections-queue.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProgram" />
+      <module name="java-collections-queue.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueCollection" />
+      <module name="java-collections-queue.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueCollectionTest.addNumbersToQueue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;QueueCollectionTest.addNumbersToQueue&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="java-collections-queue [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainProgram" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.QueueCollectionTest.addNumbersToQueue" />
+        <item itemvalue="Application.QueueCollection" />
+        <item itemvalue="Gradle.java-collections-queue [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5689b434-5882-4bfb-b2e3-a1391347833f" name="Default Changelist" comment="" />
+      <created>1582008241769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582008241769</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1582027687336">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="757" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.27.1366.741@0.27.1366.741" timestamp="1582027687336" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582008476695">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1582008476695" />
+    <state width="1320" height="152" key="GridCell.Tab.0.bottom" timestamp="1582032041236">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="152" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582032041236" />
+    <state width="1320" height="152" key="GridCell.Tab.0.center" timestamp="1582032041236">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="152" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582032041236" />
+    <state width="1320" height="152" key="GridCell.Tab.0.left" timestamp="1582032041235">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="152" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582032041235" />
+    <state width="1320" height="152" key="GridCell.Tab.0.right" timestamp="1582032041236">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="152" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582032041236" />
+    <state x="427" y="44" width="502" height="705" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582029329707">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="427" y="44" width="502" height="705" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1366.741@0.27.1366.741" timestamp="1582029329707" />
+  </component>
+</project>
